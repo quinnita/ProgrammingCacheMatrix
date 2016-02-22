@@ -1,5 +1,5 @@
 # Matrix inversion is usually a costly computation 
-# Here is to cache the inverse of a matrix rather than compute it repeatedly. The
+# Here is to cache the inverse of a matrix rather than compute it repeatedly. 
 # The following two functions are used to cache the inverse of a matrix.
 
 # makeCacheMatrix creates a special "matrix" object that can cache its inverse
